@@ -1,23 +1,35 @@
 Note Management System (OOP Lab)
+
 A simple Note Management System implemented using Object-Oriented Programming in Python. It allows users to create, view, edit, and delete notes, organized per user. Notes are saved as text files, and users are tracked in an Excel file.
 
-Features
+Features : 
+
 . Add new notes per user
+
 . View existing notes
+
 . Edit or delete notes
+
 . Track users with an Excel file
 (users.xlsx)
+
 . Modular OOP design (main.py, note_manager.py)
+
 . Demonstrates file handling and class usage for learning OOP
 
 
-Technologies Used
+
+Technologies Used :
+
 . Python 3.x
+
 . openpyxl for Excel handling
+
 . Standard libraries: os, datetime
 
 
-Project Structure
+
+Project Structure :
 
 oop-lab
 
@@ -38,7 +50,7 @@ oop-lab
 └── README.md
 
 
-Setup & Usage
+Setup & Usage :
 
 1. Clone the repository:
 git clone https://github.com/yourusername/oop-lab.git
@@ -52,15 +64,19 @@ python main.py
 
 4. Follow the CLI instructions to manage notes.
 
-Learning Outcomes
+Learning Outcomes :
+
 . Practice classes and OOP design
+
 . File handling in Python
+
 . Using Excel with openpyxl
+
 . Modular project structuring
    
-Contributing
+Contributing :
 Contributions for adding a GUI or database backend are welcome. Fork the repo and open a pull request.
 
-License
+License :
 For educational use and OOP lab practice.
 
